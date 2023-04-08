@@ -1,0 +1,20 @@
+D:\Vezbe\10\VezbeNMS\bin64\NMSTestClient.exe.config
+D:\Vezbe\10\VezbeNMS\bin64\NMSTestClient.exe
+D:\Vezbe\10\VezbeNMS\bin64\NMSTestClient.pdb
+D:\Vezbe\10\VezbeNMS\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\VezbeNMS\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.exe
+D:\Vezbe\10\VezbeNMS\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.pdb
+D:\Vezbe\10\ModelLabs\bin64\NMSTestClient.exe.config
+D:\Vezbe\10\ModelLabs\bin64\NMSTestClient.exe
+D:\Vezbe\10\ModelLabs\bin64\NMSTestClient.pdb
+D:\Vezbe\10\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.exe
+D:\Vezbe\10\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.pdb
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\NMSTestClient.exe.config
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\NMSTestClient.exe
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\NMSTestClient.pdb
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.csproj.AssemblyReference.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.csproj.CoreCompileInputs.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.csproj.CopyComplete
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.exe
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x64\Debug\NMSTestClient.pdb
