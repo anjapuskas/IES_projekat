@@ -1,0 +1,12 @@
+D:\Vezbe\11\ModelLabs\bin64\ModelLabsApp.exe.config
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\ModelLabsApp.exe.config
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\ModelLabsApp.exe
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\ModelLabsApp.pdb
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.csproj.AssemblyReference.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.csproj.CopyComplete
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.exe
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.pdb

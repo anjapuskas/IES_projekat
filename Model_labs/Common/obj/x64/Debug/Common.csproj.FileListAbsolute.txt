@@ -1,0 +1,5 @@
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\FTN.Common.dll
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\FTN.Common.pdb
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\Common\obj\x64\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\Common\obj\x64\Debug\FTN.Common.dll
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\Common\obj\x64\Debug\FTN.Common.pdb
