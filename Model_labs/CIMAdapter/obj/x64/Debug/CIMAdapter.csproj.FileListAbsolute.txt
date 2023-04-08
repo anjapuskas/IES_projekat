@@ -1,0 +1,7 @@
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x64\Debug\CIMAdapter.csproj.AssemblyReference.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x64\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x64\Debug\CIMAdapter.csproj.CopyComplete
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x64\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x64\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
