@@ -1,0 +1,981 @@
+4/7/2023 01:05:09 AM : Starting Network Model Serivice...
+4/7/2023 01:05:09 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 01:05:09 AM : Endpoints:
+4/7/2023 01:05:09 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 01:05:09 AM : Connection string: ../NetworkModelData.data
+4/7/2023 01:05:09 AM : Trace level: Info
+4/7/2023 01:05:09 AM : The Network Model Service is started.
+4/7/2023 01:05:09 AM : Press <Enter> to stop the service.
+4/7/2023 01:16:49 AM : Starting Network Model Serivice...
+4/7/2023 01:16:49 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 01:16:49 AM : Endpoints:
+4/7/2023 01:16:49 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 01:16:49 AM : Connection string: ../NetworkModelData.data
+4/7/2023 01:16:49 AM : Trace level: Info
+4/7/2023 01:16:49 AM : The Network Model Service is started.
+4/7/2023 01:16:49 AM : Press <Enter> to stop the service.
+4/7/2023 01:29:49 AM : Starting Network Model Serivice...
+4/7/2023 01:29:49 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 01:29:49 AM : Endpoints:
+4/7/2023 01:29:49 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 01:29:49 AM : Connection string: ../NetworkModelData.data
+4/7/2023 01:29:49 AM : Trace level: Info
+4/7/2023 01:29:49 AM : The Network Model Service is started.
+4/7/2023 01:29:49 AM : Press <Enter> to stop the service.
+4/7/2023 01:58:43 AM : Starting Network Model Serivice...
+4/7/2023 01:58:43 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 01:58:43 AM : Endpoints:
+4/7/2023 01:58:43 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 01:58:43 AM : Connection string: ../NetworkModelData.data
+4/7/2023 01:58:43 AM : Trace level: Info
+4/7/2023 01:58:43 AM : The Network Model Service is started.
+4/7/2023 01:58:43 AM : Press <Enter> to stop the service.
+4/7/2023 02:22:38 AM : Starting Network Model Serivice...
+4/7/2023 02:22:38 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:22:38 AM : Endpoints:
+4/7/2023 02:22:38 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:22:38 AM : Connection string: ../NetworkModelData.data
+4/7/2023 02:22:38 AM : Trace level: Info
+4/7/2023 02:22:38 AM : The Network Model Service is started.
+4/7/2023 02:22:38 AM : Press <Enter> to stop the service.
+4/7/2023 02:24:48 AM : Starting Network Model Serivice...
+4/7/2023 02:24:49 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:24:49 AM : Endpoints:
+4/7/2023 02:24:49 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:24:49 AM : Connection string: ../NetworkModelData.data
+4/7/2023 02:24:49 AM : Trace level: Info
+4/7/2023 02:24:49 AM : The Network Model Service is started.
+4/7/2023 02:24:49 AM : Press <Enter> to stop the service.
+4/7/2023 02:31:20 AM : Starting Network Model Serivice...
+4/7/2023 02:31:20 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:31:20 AM : Endpoints:
+4/7/2023 02:31:20 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:31:20 AM : Connection string: ../NetworkModelData.data
+4/7/2023 02:31:20 AM : Trace level: Info
+4/7/2023 02:31:20 AM : The Network Model Service is started.
+4/7/2023 02:31:20 AM : Press <Enter> to stop the service.
+4/7/2023 02:36:15 AM : Starting Network Model Serivice...
+4/7/2023 02:36:15 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:36:15 AM : Endpoints:
+4/7/2023 02:36:15 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:36:15 AM : Connection string: ../NetworkModelData.data
+4/7/2023 02:36:15 AM : Trace level: Info
+4/7/2023 02:36:15 AM : The Network Model Service is started.
+4/7/2023 02:36:15 AM : Press <Enter> to stop the service.
+4/7/2023 02:38:01 AM : Applying  delta to network model.
+4/7/2023 02:38:01 AM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:38:01 AM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:38:01 AM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+4/7/2023 03:27:51 AM : Starting Network Model Serivice...
+4/7/2023 03:27:51 AM : Inserting entity with GID (0000000100000001).
+4/7/2023 03:27:51 AM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:27:51 AM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:27:51 AM : The WCF service GenericDataAccess is ready.
+4/7/2023 03:27:51 AM : Endpoints:
+4/7/2023 03:27:51 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 03:27:51 AM : Connection string: ../NetworkModelData.data
+4/7/2023 03:27:51 AM : Trace level: Info
+4/7/2023 03:27:51 AM : The Network Model Service is started.
+4/7/2023 03:27:51 AM : Press <Enter> to stop the service.
+4/7/2023 03:28:13 AM : Applying  delta to network model.
+4/7/2023 03:28:13 AM : Inserting entity with GID (0000000100000002).
+4/7/2023 03:28:13 AM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:28:13 AM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+4/7/2023 02:23:51 PM : Starting Network Model Serivice...
+4/7/2023 02:23:52 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:23:52 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:23:52 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:23:52 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:23:52 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:23:52 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:23:52 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:23:52 PM : Endpoints:
+4/7/2023 02:23:52 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:23:52 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:23:52 PM : Trace level: Info
+4/7/2023 02:23:52 PM : The Network Model Service is started.
+4/7/2023 02:23:52 PM : Press <Enter> to stop the service.
+4/7/2023 02:24:15 PM : Applying  delta to network model.
+4/7/2023 02:24:15 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:24:15 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:24:15 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+4/7/2023 02:29:40 PM : Starting Network Model Serivice...
+4/7/2023 02:29:40 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:29:40 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:29:40 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:29:40 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:29:40 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:29:40 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:29:40 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:29:40 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:29:40 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:29:40 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:29:40 PM : Endpoints:
+4/7/2023 02:29:40 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:29:40 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:29:40 PM : Trace level: Info
+4/7/2023 02:29:40 PM : The Network Model Service is started.
+4/7/2023 02:29:40 PM : Press <Enter> to stop the service.
+4/7/2023 02:30:03 PM : Applying  delta to network model.
+4/7/2023 02:30:03 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 02:30:03 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:31:45 PM : Starting Network Model Serivice...
+4/7/2023 02:31:56 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:31:56 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:31:56 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:31:56 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:31:56 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:31:56 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:31:56 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:31:56 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:31:56 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:31:57 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:31:57 PM : Endpoints:
+4/7/2023 02:31:57 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:31:57 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:31:57 PM : Trace level: Info
+4/7/2023 02:31:57 PM : The Network Model Service is started.
+4/7/2023 02:31:57 PM : Press <Enter> to stop the service.
+4/7/2023 02:32:14 PM : Applying  delta to network model.
+4/7/2023 02:32:17 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 02:32:17 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:20 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+4/7/2023 02:32:37 PM : Starting Network Model Serivice...
+4/7/2023 02:32:41 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:32:41 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:41 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:41 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:32:41 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:41 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:41 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:32:41 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:41 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:41 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 02:32:41 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:41 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:32:41 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:32:41 PM : Endpoints:
+4/7/2023 02:32:41 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:32:41 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:32:41 PM : Trace level: Info
+4/7/2023 02:32:41 PM : The Network Model Service is started.
+4/7/2023 02:32:41 PM : Press <Enter> to stop the service.
+4/7/2023 02:32:56 PM : Applying  delta to network model.
+4/7/2023 02:32:56 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 02:32:56 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:04 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+4/7/2023 02:33:19 PM : Starting Network Model Serivice...
+4/7/2023 02:33:19 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:33:19 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:33:19 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:33:19 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 02:33:19 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 02:33:19 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:33:19 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:33:19 PM : Endpoints:
+4/7/2023 02:33:19 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:33:19 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:33:19 PM : Trace level: Info
+4/7/2023 02:33:19 PM : The Network Model Service is started.
+4/7/2023 02:33:19 PM : Press <Enter> to stop the service.
+4/7/2023 02:33:34 PM : Applying  delta to network model.
+4/7/2023 02:33:44 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 02:35:01 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:35:26 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+4/7/2023 02:36:27 PM : Starting Network Model Serivice...
+4/7/2023 02:36:32 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:36:36 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:36:36 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:36:36 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 02:36:36 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 02:36:36 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 02:36:36 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:36:36 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:36:36 PM : Endpoints:
+4/7/2023 02:36:36 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:36:36 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:36:36 PM : Trace level: Info
+4/7/2023 02:36:36 PM : The Network Model Service is started.
+4/7/2023 02:36:36 PM : Press <Enter> to stop the service.
+4/7/2023 02:36:57 PM : Applying  delta to network model.
+4/7/2023 02:36:57 PM : Inserting entity with GID (0000000100000007).
+4/7/2023 02:48:40 PM : Starting Network Model Serivice...
+4/7/2023 02:48:40 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:48:47 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:48:47 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:48:47 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 02:48:47 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 02:48:47 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 02:48:47 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:47 PM : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:48:48 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:48:48 PM : Endpoints:
+4/7/2023 02:48:48 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:48:48 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:48:48 PM : Trace level: Info
+4/7/2023 02:48:48 PM : The Network Model Service is started.
+4/7/2023 02:48:48 PM : Press <Enter> to stop the service.
+4/7/2023 02:49:36 PM : Applying  delta to network model.
+4/7/2023 02:50:44 PM : Inserting entity with GID (0000000100000007).
+4/7/2023 02:50:44 PM : Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:50:48 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+4/7/2023 02:52:43 PM : Starting Network Model Serivice...
+4/7/2023 02:52:43 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:52:43 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:52:43 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:52:43 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 02:52:43 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 02:52:43 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 02:52:43 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Inserting entity with GID (0000000100000007).
+4/7/2023 02:52:43 PM : Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:52:43 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:52:43 PM : Endpoints:
+4/7/2023 02:52:43 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:52:43 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:52:43 PM : Trace level: Info
+4/7/2023 02:52:43 PM : The Network Model Service is started.
+4/7/2023 02:52:43 PM : Press <Enter> to stop the service.
+4/7/2023 02:58:28 PM : Applying  delta to network model.
+4/7/2023 02:59:19 PM : Starting Network Model Serivice...
+4/7/2023 02:59:19 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 02:59:19 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 02:59:19 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 02:59:19 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 02:59:19 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 02:59:19 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 02:59:19 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Inserting entity with GID (0000000100000007).
+4/7/2023 02:59:19 PM : Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 02:59:19 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 02:59:19 PM : Endpoints:
+4/7/2023 02:59:19 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 02:59:19 PM : Connection string: ../NetworkModelData.data
+4/7/2023 02:59:19 PM : Trace level: Info
+4/7/2023 02:59:19 PM : The Network Model Service is started.
+4/7/2023 02:59:19 PM : Press <Enter> to stop the service.
+4/7/2023 03:00:26 PM : Applying  delta to network model.
+4/7/2023 03:10:05 PM : Starting Network Model Serivice...
+4/7/2023 03:10:05 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 03:10:05 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:05 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:05 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 03:10:05 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:05 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:05 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 03:10:05 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:05 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:05 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 03:10:06 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:06 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:06 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 03:10:06 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:06 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:06 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 03:10:06 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:06 PM : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:06 PM : Inserting entity with GID (0000000100000007).
+4/7/2023 03:10:06 PM : Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:06 PM : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:06 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 03:10:06 PM : Endpoints:
+4/7/2023 03:10:06 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 03:10:06 PM : Connection string: ../NetworkModelData.data
+4/7/2023 03:10:06 PM : Trace level: Info
+4/7/2023 03:10:06 PM : The Network Model Service is started.
+4/7/2023 03:10:06 PM : Press <Enter> to stop the service.
+4/7/2023 03:10:58 PM : Starting Network Model Serivice...
+4/7/2023 03:10:58 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 03:10:58 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:58 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:58 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 03:10:58 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:58 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:58 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 03:10:59 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 03:10:59 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 03:10:59 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 03:10:59 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Inserting entity with GID (0000000100000007).
+4/7/2023 03:10:59 PM : Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:10:59 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 03:10:59 PM : Endpoints:
+4/7/2023 03:10:59 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 03:10:59 PM : Connection string: ../NetworkModelData.data
+4/7/2023 03:10:59 PM : Trace level: Info
+4/7/2023 03:10:59 PM : The Network Model Service is started.
+4/7/2023 03:10:59 PM : Press <Enter> to stop the service.
+4/7/2023 03:11:13 PM : Applying  delta to network model.
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000100000008).
+4/7/2023 03:11:13 PM : Inserting entity with GID (0000000100000009).
+4/7/2023 03:11:13 PM : Applying delta to network model successfully finished.
+4/7/2023 03:16:55 PM : Starting Network Model Serivice...
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 03:16:56 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 03:16:56 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 03:16:56 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 03:16:56 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 03:16:56 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 03:16:56 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000007).
+4/7/2023 03:16:56 PM : Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000008).
+4/7/2023 03:16:56 PM : Inserting entity with GID (0000000100000009).
+4/7/2023 03:16:56 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 03:16:56 PM : Endpoints:
+4/7/2023 03:16:56 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 03:16:56 PM : Connection string: ../NetworkModelData.data
+4/7/2023 03:16:56 PM : Trace level: Info
+4/7/2023 03:16:56 PM : The Network Model Service is started.
+4/7/2023 03:16:56 PM : Press <Enter> to stop the service.
+4/7/2023 03:17:11 PM : Applying  delta to network model.
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000200000003).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000200000004).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000300000003).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000300000004).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000500000003).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000500000004).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000600000003).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000600000004).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000700000003).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000700000004).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000400000003).
+4/7/2023 03:17:11 PM : Inserting entity with GID (0000000400000004).
+4/7/2023 03:17:11 PM : Inserting entity with GID (000000010000000a).
+4/7/2023 03:17:11 PM : Inserting entity with GID (000000010000000b).
+4/7/2023 03:17:11 PM : Applying delta to network model successfully finished.
+4/7/2023 03:19:44 PM : Starting Network Model Serivice...
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 03:19:44 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 03:19:44 PM : Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000100000002) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000003).
+4/7/2023 03:19:44 PM : Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000100000003) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000004).
+4/7/2023 03:19:44 PM : Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000100000004) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000005).
+4/7/2023 03:19:44 PM : Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000100000005) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000006).
+4/7/2023 03:19:44 PM : Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000100000006) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000007).
+4/7/2023 03:19:44 PM : Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000100000007) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000008).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000100000009).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000200000003).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000200000004).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000300000003).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000300000004).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000500000003).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000500000004).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000600000003).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000600000004).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000700000003).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000700000004).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000400000003).
+4/7/2023 03:19:44 PM : Inserting entity with GID (0000000400000004).
+4/7/2023 03:19:44 PM : Inserting entity with GID (000000010000000a).
+4/7/2023 03:19:44 PM : Inserting entity with GID (000000010000000b).
+4/7/2023 03:19:44 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 03:19:44 PM : Endpoints:
+4/7/2023 03:19:44 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 03:19:44 PM : Connection string: ../NetworkModelData.data
+4/7/2023 03:19:44 PM : Trace level: Info
+4/7/2023 03:19:44 PM : The Network Model Service is started.
+4/7/2023 03:19:44 PM : Press <Enter> to stop the service.
+4/7/2023 03:20:03 PM : Applying  delta to network model.
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000200000005).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000200000006).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000300000005).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000300000006).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000500000005).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000500000006).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000600000005).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000600000006).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000700000005).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000700000006).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000400000005).
+4/7/2023 03:20:03 PM : Inserting entity with GID (0000000400000006).
+4/7/2023 03:20:03 PM : Inserting entity with GID (000000010000000c).
+4/7/2023 03:20:03 PM : Inserting entity with GID (000000010000000d).
+4/7/2023 03:20:03 PM : Applying delta to network model successfully finished.
+4/7/2023 03:22:23 PM : Starting Network Model Serivice...
+4/7/2023 03:22:23 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 03:22:23 PM : Endpoints:
+4/7/2023 03:22:23 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 03:22:23 PM : Connection string: ../NetworkModelData.data
+4/7/2023 03:22:23 PM : Trace level: Info
+4/7/2023 03:22:23 PM : The Network Model Service is started.
+4/7/2023 03:22:23 PM : Press <Enter> to stop the service.
+4/7/2023 03:22:33 PM : Applying  delta to network model.
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 03:22:33 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 03:22:33 PM : Applying delta to network model successfully finished.
+4/7/2023 11:01:45 PM : Starting Network Model Serivice...
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:01:45 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:01:45 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:01:45 PM : Endpoints:
+4/7/2023 11:01:45 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:01:45 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:01:45 PM : Trace level: Info
+4/7/2023 11:01:45 PM : The Network Model Service is started.
+4/7/2023 11:01:45 PM : Press <Enter> to stop the service.
+4/7/2023 11:02:51 PM : Starting Network Model Serivice...
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:02:51 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:02:51 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:02:51 PM : Endpoints:
+4/7/2023 11:02:51 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:02:51 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:02:51 PM : Trace level: Info
+4/7/2023 11:02:51 PM : The Network Model Service is started.
+4/7/2023 11:02:51 PM : Press <Enter> to stop the service.
+4/7/2023 11:03:42 PM : Starting Network Model Serivice...
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:03:42 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:03:42 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:03:42 PM : Endpoints:
+4/7/2023 11:03:42 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:03:42 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:03:42 PM : Trace level: Info
+4/7/2023 11:03:42 PM : The Network Model Service is started.
+4/7/2023 11:03:42 PM : Press <Enter> to stop the service.
+4/7/2023 11:05:14 PM : Starting Network Model Serivice...
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:05:14 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:05:14 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:05:14 PM : Endpoints:
+4/7/2023 11:05:14 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:05:14 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:05:14 PM : Trace level: Info
+4/7/2023 11:05:14 PM : The Network Model Service is started.
+4/7/2023 11:05:14 PM : Press <Enter> to stop the service.
+4/7/2023 11:06:39 PM : Starting Network Model Serivice...
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:06:41 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:06:47 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:06:47 PM : Endpoints:
+4/7/2023 11:06:47 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:06:47 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:06:47 PM : Trace level: Info
+4/7/2023 11:06:47 PM : The Network Model Service is started.
+4/7/2023 11:06:47 PM : Press <Enter> to stop the service.
+4/7/2023 11:08:51 PM : Starting Network Model Serivice...
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:08:52 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:08:52 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:08:52 PM : Endpoints:
+4/7/2023 11:08:52 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:08:52 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:08:52 PM : Trace level: Info
+4/7/2023 11:08:52 PM : The Network Model Service is started.
+4/7/2023 11:08:52 PM : Press <Enter> to stop the service.
+4/7/2023 11:10:26 PM : Starting Network Model Serivice...
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:10:26 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:10:26 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:10:26 PM : Endpoints:
+4/7/2023 11:10:26 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:10:26 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:10:26 PM : Trace level: Info
+4/7/2023 11:10:26 PM : The Network Model Service is started.
+4/7/2023 11:10:26 PM : Press <Enter> to stop the service.
+4/7/2023 11:14:33 PM : Starting Network Model Serivice...
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:14:33 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:14:33 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:14:33 PM : Endpoints:
+4/7/2023 11:14:33 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:14:33 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:14:33 PM : Trace level: Info
+4/7/2023 11:14:33 PM : The Network Model Service is started.
+4/7/2023 11:14:33 PM : Press <Enter> to stop the service.
+4/7/2023 11:15:05 PM : Starting Network Model Serivice...
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:15:05 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:15:06 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:15:06 PM : Endpoints:
+4/7/2023 11:15:06 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:15:06 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:15:06 PM : Trace level: Info
+4/7/2023 11:15:06 PM : The Network Model Service is started.
+4/7/2023 11:15:06 PM : Press <Enter> to stop the service.
+4/7/2023 11:15:23 PM : Starting Network Model Serivice...
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:15:23 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:15:23 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:15:23 PM : Endpoints:
+4/7/2023 11:15:23 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:15:23 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:15:23 PM : Trace level: Info
+4/7/2023 11:15:23 PM : The Network Model Service is started.
+4/7/2023 11:15:23 PM : Press <Enter> to stop the service.
+4/7/2023 11:16:10 PM : Starting Network Model Serivice...
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:16:10 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:16:10 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:16:10 PM : Endpoints:
+4/7/2023 11:16:10 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:16:10 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:16:10 PM : Trace level: Info
+4/7/2023 11:16:10 PM : The Network Model Service is started.
+4/7/2023 11:16:10 PM : Press <Enter> to stop the service.
+4/7/2023 11:19:32 PM : Starting Network Model Serivice...
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:19:33 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:19:33 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:19:33 PM : Endpoints:
+4/7/2023 11:19:33 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:19:33 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:19:33 PM : Trace level: Info
+4/7/2023 11:19:33 PM : The Network Model Service is started.
+4/7/2023 11:19:33 PM : Press <Enter> to stop the service.
+4/7/2023 11:27:05 PM : Starting Network Model Serivice...
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:27:05 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:27:05 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:27:05 PM : Endpoints:
+4/7/2023 11:27:05 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:27:05 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:27:05 PM : Trace level: Info
+4/7/2023 11:27:05 PM : The Network Model Service is started.
+4/7/2023 11:27:05 PM : Press <Enter> to stop the service.
+4/7/2023 11:42:41 PM : Starting Network Model Serivice...
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:42:41 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:42:41 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:42:41 PM : Endpoints:
+4/7/2023 11:42:41 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:42:41 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:42:41 PM : Trace level: Info
+4/7/2023 11:42:41 PM : The Network Model Service is started.
+4/7/2023 11:42:41 PM : Press <Enter> to stop the service.
+4/7/2023 11:43:47 PM : Starting Network Model Serivice...
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:43:47 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:43:47 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:43:47 PM : Endpoints:
+4/7/2023 11:43:47 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:43:47 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:43:47 PM : Trace level: Info
+4/7/2023 11:43:47 PM : The Network Model Service is started.
+4/7/2023 11:43:47 PM : Press <Enter> to stop the service.
+4/7/2023 11:58:53 PM : Starting Network Model Serivice...
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000200000001).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000200000002).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000300000001).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000300000002).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000500000001).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000500000002).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000600000001).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000600000002).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000700000001).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000700000002).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000400000001).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000400000002).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000100000001).
+4/7/2023 11:58:53 PM : Inserting entity with GID (0000000100000002).
+4/7/2023 11:58:56 PM : The WCF service GenericDataAccess is ready.
+4/7/2023 11:58:56 PM : Endpoints:
+4/7/2023 11:58:56 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/7/2023 11:58:56 PM : Connection string: ../NetworkModelData.data
+4/7/2023 11:58:56 PM : Trace level: Info
+4/7/2023 11:58:56 PM : The Network Model Service is started.
+4/7/2023 11:58:56 PM : Press <Enter> to stop the service.
+4/8/2023 12:03:03 AM : Starting Network Model Serivice...
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000200000001).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000200000002).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000300000001).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000300000002).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000500000001).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000500000002).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000600000001).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000600000002).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000700000001).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000700000002).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000400000001).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000400000002).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000100000001).
+4/8/2023 12:03:03 AM : Inserting entity with GID (0000000100000002).
+4/8/2023 12:03:04 AM : The WCF service GenericDataAccess is ready.
+4/8/2023 12:03:04 AM : Endpoints:
+4/8/2023 12:03:04 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/8/2023 12:03:04 AM : Connection string: ../NetworkModelData.data
+4/8/2023 12:03:04 AM : Trace level: Info
+4/8/2023 12:03:04 AM : The Network Model Service is started.
+4/8/2023 12:03:04 AM : Press <Enter> to stop the service.
+4/8/2023 12:06:15 AM : Starting Network Model Serivice...
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000200000001).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000200000002).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000300000001).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000300000002).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000500000001).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000500000002).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000600000001).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000600000002).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000700000001).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000700000002).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000400000001).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000400000002).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000100000001).
+4/8/2023 12:06:15 AM : Inserting entity with GID (0000000100000002).
+4/8/2023 12:06:16 AM : The WCF service GenericDataAccess is ready.
+4/8/2023 12:06:16 AM : Endpoints:
+4/8/2023 12:06:16 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/8/2023 12:06:16 AM : Connection string: ../NetworkModelData.data
+4/8/2023 12:06:16 AM : Trace level: Info
+4/8/2023 12:06:16 AM : The Network Model Service is started.
+4/8/2023 12:06:16 AM : Press <Enter> to stop the service.
+4/8/2023 12:10:26 AM : Starting Network Model Serivice...
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000200000001).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000200000002).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000300000001).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000300000002).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000500000001).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000500000002).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000600000001).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000600000002).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000700000001).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000700000002).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000400000001).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000400000002).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000100000001).
+4/8/2023 12:10:26 AM : Inserting entity with GID (0000000100000002).
+4/8/2023 12:10:27 AM : The WCF service GenericDataAccess is ready.
+4/8/2023 12:10:27 AM : Endpoints:
+4/8/2023 12:10:27 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/8/2023 12:10:27 AM : Connection string: ../NetworkModelData.data
+4/8/2023 12:10:27 AM : Trace level: Info
+4/8/2023 12:10:27 AM : The Network Model Service is started.
+4/8/2023 12:10:27 AM : Press <Enter> to stop the service.
+4/8/2023 12:17:16 AM : Starting Network Model Serivice...
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000200000001).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000200000002).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000300000001).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000300000002).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000500000001).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000500000002).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000600000001).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000600000002).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000700000001).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000700000002).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000400000001).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000400000002).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000100000001).
+4/8/2023 12:17:16 AM : Inserting entity with GID (0000000100000002).
+4/8/2023 12:17:17 AM : The WCF service GenericDataAccess is ready.
+4/8/2023 12:17:17 AM : Endpoints:
+4/8/2023 12:17:17 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+4/8/2023 12:17:17 AM : Connection string: ../NetworkModelData.data
+4/8/2023 12:17:17 AM : Trace level: Info
+4/8/2023 12:17:17 AM : The Network Model Service is started.
+4/8/2023 12:17:17 AM : Press <Enter> to stop the service.

@@ -1,0 +1,7 @@
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csproj.AssemblyReference.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csproj.CopyComplete
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
