@@ -1,0 +1,5 @@
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\CIMParser.dll
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\bin64\CIMParser.pdb
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\CIMParser\obj\x64\Debug\CIMParser.csproj.CoreCompileInputs.cache
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\CIMParser\obj\x64\Debug\CIMParser.dll
+C:\Users\Anja Puskas\Desktop\New folder\ModelLabsProjekat\ModelLabs\CIMParser\obj\x64\Debug\CIMParser.pdb
